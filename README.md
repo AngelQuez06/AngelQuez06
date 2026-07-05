@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Backend+Developer;Cybernetics+%26+Systems+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=750&lines=Cybernetics+%26+Systems+Engineering+Student;Deep+diving+into+Algorithms+%26+Systems+Architecture;Backend+Developer;" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -28,17 +28,17 @@
 
 <p align="center">
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/AngelQuez06" target="_blank">
+  <a href="https://codeforces.com/profile/AngelQuez" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/>
   </a>
   &emsp;
   <!-- LeetCode -->
-  <a href="https://leetcode.com/AngelQuez06/" target="_blank">
+  <a href="https://leetcode.com/angelquez06/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
   </a>
   &emsp;
   <!-- ICPC Global ID -->
-  <a href="https://icpc.global/ICPCID/AngelQuez06" target="_blank">
+  <a href="https://icpc.global/ICPCID/PFYX2E8QUG18" target="_blank">
     <img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width="50px" />
   </a>
 </p>
@@ -144,21 +144,20 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-  <hr>  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelQuez06&theme=tokyonight_duo" alt="Streak Stats" />
-  </p>
-</details>
+### 🔥 Streak Stats
+<hr>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelQuez06&theme=tokyonight_duo" alt="Streak Stats" />
+</p>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-</details>
-
-<details><summary><h3> 🏆 Git profile Trophies </h3></summary>
-</details>
-  
-<details><summary><h3> 📂 My Featured Repositories </h3></summary>
-</details>
+### 📂 My Repositories
+<hr>
+<p align="center">
+  <!-- 1. Minesweeper CLI -->
+  <a href="https://github.com/AngelQuez06/minesweeper-cli" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%F0%9F%92%A3%20Minesweeper%20CLI%20-%231a1b26?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599c&labelColor=%2324283b" alt="Minesweeper CLI" height="40px"/>
+  </a>
+</p>
 
 <br><br>
   
