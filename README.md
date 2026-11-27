@@ -14,13 +14,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :mortar_board: I am an undergraduate student in **Cybernetics and Computer Systems Engineering** at **Universidad La Salle**.
-- :hammer_and_wrench: Currently focusing on backend development, software architecture, and algorithms.
-- :computer: Passionate about building client-server systems, database persistence, and low-level computer architecture.
-- :brain: Active training in Data Structures and Algorithms (DSA) and problem-solving.
-- :trophy: Competed in official **ICPC** Regional Contests representing Universidad La Salle.
-- :shield: Competed in the **IEEExtreme** 24-Hour global programming challenge.
-- :rocket: Always open to learning new complex systems and collaborating on core backend projects.
+- I am an undergraduate student in **Cybernetics and Computer Systems Engineering** at **Universidad La Salle**.
+- Currently focusing on backend development, software architecture, and algorithms.
+- Passionate about building client-server systems, database persistence, and low-level computer architecture.
+- Active training in Data Structures and Algorithms (DSA) and problem-solving.
+- Competed in official **ICPC** Regional Contests representing Universidad La Salle.
+- Competed in the **IEEExtreme** 24-Hour global programming challenge.
+- Always open to learning new complex systems and collaborating on core backend projects.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
